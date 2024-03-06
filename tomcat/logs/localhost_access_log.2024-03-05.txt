@@ -1,0 +1,22 @@
+0:0:0:0:0:0:0:1 - - [05/Mar/2024:14:13:34 +0300] "GET /mywebapp/FindBooksByAuthor.html?AUTHOR=Anna+Pavord HTTP/1.1" 200 201
+0:0:0:0:0:0:0:1 - - [05/Mar/2024:14:13:40 +0300] "GET /mywebapp/all-books.html HTTP/1.1" 200 2094
+0:0:0:0:0:0:0:1 - - [05/Mar/2024:14:13:40 +0300] "GET /mywebapp/styles.css HTTP/1.1" 200 2479
+0:0:0:0:0:0:0:1 - - [05/Mar/2024:14:13:40 +0300] "GET /mywebapp/cart-button.png HTTP/1.1" 200 891
+0:0:0:0:0:0:0:1 - - [05/Mar/2024:14:13:40 +0300] "GET /mywebapp/background.gif HTTP/1.1" 200 115
+127.0.0.1 - - [05/Mar/2024:21:56:57 +0300] "-" 400 2210
+127.0.0.1 - - [05/Mar/2024:21:56:57 +0300] "-" 400 2232
+0:0:0:0:0:0:0:1 - - [05/Mar/2024:22:01:51 +0300] "GET /mywebapp/all-books.html HTTP/1.1" 200 2095
+0:0:0:0:0:0:0:1 - - [05/Mar/2024:22:01:51 +0300] "GET /mywebapp/cart-button.png HTTP/1.1" 200 891
+0:0:0:0:0:0:0:1 - - [05/Mar/2024:22:01:51 +0300] "GET /mywebapp/styles.css HTTP/1.1" 200 2479
+0:0:0:0:0:0:0:1 - - [05/Mar/2024:22:01:51 +0300] "GET /mywebapp/background.gif HTTP/1.1" 200 115
+0:0:0:0:0:0:0:1 - - [05/Mar/2024:22:01:54 +0300] "GET /mywebapp/all-books.html HTTP/1.1" 404 778
+0:0:0:0:0:0:0:1 - - [05/Mar/2024:22:01:54 +0300] "GET /favicon.ico HTTP/1.1" 200 21630
+127.0.0.1 - - [05/Mar/2024:22:15:47 +0300] "-" 400 2196
+127.0.0.1 - - [05/Mar/2024:22:15:47 +0300] "-" 400 2184
+0:0:0:0:0:0:0:1 - - [05/Mar/2024:22:26:26 +0300] "GET /mywebapp/all-books.do HTTP/1.1" 500 2480
+0:0:0:0:0:0:0:1 - - [05/Mar/2024:22:36:28 +0300] "GET /mywebapp/all-books.do HTTP/1.1" 500 2480
+0:0:0:0:0:0:0:1 - - [05/Mar/2024:22:40:12 +0300] "GET /mywebapp/all-books.do HTTP/1.1" 200 1750
+0:0:0:0:0:0:0:1 - - [05/Mar/2024:22:40:17 +0300] "GET /mywebapp/all-books.do HTTP/1.1" 200 1750
+0:0:0:0:0:0:0:1 - - [05/Mar/2024:22:40:18 +0300] "GET /mywebapp/all-books.do HTTP/1.1" 200 1750
+0:0:0:0:0:0:0:1 - - [05/Mar/2024:22:40:20 +0300] "GET /mywebapp/all-books HTTP/1.1" 404 773
+0:0:0:0:0:0:0:1 - - [05/Mar/2024:22:40:23 +0300] "GET /mywebapp/all-books.do HTTP/1.1" 200 1750

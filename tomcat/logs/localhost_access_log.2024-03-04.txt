@@ -1,0 +1,17 @@
+0:0:0:0:0:0:0:1 - - [04/Mar/2024:19:24:48 +0300] "GET /mywebapp/tc.jsp HTTP/1.1" 200 990
+0:0:0:0:0:0:0:1 - - [04/Mar/2024:19:24:48 +0300] "GET /mywebapp/styles.css HTTP/1.1" 200 2523
+0:0:0:0:0:0:0:1 - - [04/Mar/2024:19:24:50 +0300] "GET /mywebapp/add-new-book.jsp HTTP/1.1" 404 746
+0:0:0:0:0:0:0:1 - - [04/Mar/2024:19:24:55 +0300] "GET /mywebapp/all-books.html HTTP/1.1" 200 620
+0:0:0:0:0:0:0:1 - - [04/Mar/2024:19:24:58 +0300] "GET /mywebapp/tc.jsp HTTP/1.1" 200 990
+0:0:0:0:0:0:0:1 - - [04/Mar/2024:19:24:58 +0300] "GET /favicon.ico HTTP/1.1" 200 21630
+0:0:0:0:0:0:0:1 - - [04/Mar/2024:19:25:01 +0300] "GET /mywebapp/add-new-book.jsp HTTP/1.1" 404 746
+0:0:0:0:0:0:0:1 - - [04/Mar/2024:19:25:46 +0300] "GET /mywebapp/add-new-book.jsp HTTP/1.1" 404 746
+0:0:0:0:0:0:0:1 - - [04/Mar/2024:19:35:14 +0300] "GET /mywebapp/add-new-book.jsp HTTP/1.1" 200 393
+0:0:0:0:0:0:0:1 - - [04/Mar/2024:20:17:11 +0300] "GET /mywebapp/ HTTP/1.1" 404 764
+0:0:0:0:0:0:0:1 - - [04/Mar/2024:20:17:16 +0300] "GET /mywebapp/displayAllBooks.jsp HTTP/1.1" 500 2235
+0:0:0:0:0:0:0:1 - - [04/Mar/2024:20:17:33 +0300] "GET /mywebapp/FindBooksByAuthor.html HTTP/1.1" 200 265
+0:0:0:0:0:0:0:1 - - [04/Mar/2024:20:17:33 +0300] "GET /mywebapp/background.gif HTTP/1.1" 200 115
+0:0:0:0:0:0:0:1 - - [04/Mar/2024:20:17:55 +0300] "GET /mywebapp/findByAuthor.html HTTP/1.1" 200 251
+0:0:0:0:0:0:0:1 - - [04/Mar/2024:20:18:16 +0300] "GET /mywebapp/FindBooksByAuthor.html?AUTHOR=anna HTTP/1.1" 200 265
+0:0:0:0:0:0:0:1 - - [04/Mar/2024:20:18:27 +0300] "GET /mywebapp/FindBooksByAuthor.html?AUTHOR=Anna+Pavord HTTP/1.1" 200 677
+0:0:0:0:0:0:0:1 - - [04/Mar/2024:20:18:27 +0300] "GET /mywebapp/cart-button.png HTTP/1.1" 200 891

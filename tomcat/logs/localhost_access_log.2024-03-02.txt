@@ -1,0 +1,13 @@
+0:0:0:0:0:0:0:1 - - [02/Mar/2024:17:38:48 +0300] "GET /mywebapp/tc.jsp HTTP/1.1" 200 1034
+0:0:0:0:0:0:0:1 - - [02/Mar/2024:17:38:48 +0300] "GET /mywebapp/styles.css HTTP/1.1" 200 2523
+0:0:0:0:0:0:0:1 - - [02/Mar/2024:17:38:48 +0300] "GET /favicon.ico HTTP/1.1" 200 21630
+0:0:0:0:0:0:0:1 - - [02/Mar/2024:17:49:40 +0300] "GET /mywebapp/hello-everyone.html HTTP/1.1" 200 86
+0:0:0:0:0:0:0:1 - - [02/Mar/2024:20:12:35 +0300] "GET /mywebapp/all-books.html HTTP/1.1" 200 620
+0:0:0:0:0:0:0:1 - - [02/Mar/2024:20:14:54 +0300] "GET /mywebapp/squares.jsp HTTP/1.1" 200 160
+0:0:0:0:0:0:0:1 - - [02/Mar/2024:20:31:36 +0300] "GET /mywebapp/findByAuthor.html HTTP/1.1" 200 251
+127.0.0.1 - - [02/Mar/2024:20:39:54 +0300] "-" 400 2216
+127.0.0.1 - - [02/Mar/2024:20:39:54 +0300] "-" 400 2184
+0:0:0:0:0:0:0:1 - - [02/Mar/2024:23:30:02 +0300] "GET /mywebapp/FindBooksByAuthor.html?AUTHOR=%26%231077%3B%26%231092%3B%26%231099%3B%26%231074%3B HTTP/1.1" 200 160
+0:0:0:0:0:0:0:1 - - [02/Mar/2024:23:30:07 +0300] "GET /mywebapp/all-books.html HTTP/1.1" 200 620
+0:0:0:0:0:0:0:1 - - [02/Mar/2024:23:30:08 +0300] "POST /mywebapp/addToCart.html HTTP/1.1" 200 119
+0:0:0:0:0:0:0:1 - - [02/Mar/2024:23:30:10 +0300] "GET /mywebapp/viewCart.html HTTP/1.1" 200 92
